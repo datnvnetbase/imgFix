@@ -1,0 +1,2 @@
+# imgFix
+lỗi imgfix
